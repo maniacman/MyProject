@@ -1,0 +1,10 @@
+h1	{
+	font-size: 120%;
+	color: red;
+}
+
+.df {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
